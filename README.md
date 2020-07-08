@@ -1,16 +1,15 @@
 # AD - SBA - HTML/CSS/JavaScript
 
 
-* **Objective** - To create a product...
-* **Purpose** - To gain familiarity the following features...
-* **Description**
-  * In this Skill-based Assessment, you will be creating a small website and you get to pick what is the website about. The main purpose of this SBA is to test your skills in implementing a clean HTML structure that follows the methodologies of visual design, and styling your site so that it is user-friendly.
 
-  * You have the entire day for this SBA. Make sure to check in with your instructor for approval of your idea. Your work will be graded based on the below technical requirements. Also, creativity always works in your favor.
+### Description
+* In this Skill-based Assessment, you will be creating a small website and you get to pick what is the website about. The main purpose of this SBA is to test your skills in implementing a clean HTML structure that follows the methodologies of visual design, and styling your site so that it is user-friendly.
 
-  * Since this is your first time creating a 3 page website, keep it simple. Keeping it simple is very important. It ensures that you can complete this project within the given time and also gives you a better idea of what can you get done in the given time if you were to do it again with more requirements.
+* You have the entire day for this SBA. Make sure to check in with your instructor for approval of your idea. Your work will be graded based on the below technical requirements. Also, creativity always works in your favor.
 
-  * Once you got your idea, think in the user’s perspective when creating the website.  You like your users to have a good experience when interacting with your site. This gives you a better chance of users trusting your site and coming back for more. For this SBA, don’t worry too much about the content. There are many places you can get free content to display on your site. Concentrate more on the web site's structure and grid system.
+* Since this is your first time creating a 3 page website, keep it simple. Keeping it simple is very important. It ensures that you can complete this project within the given time and also gives you a better idea of what can you get done in the given time if you were to do it again with more requirements.
+
+* Once you got your idea, think in the user’s perspective when creating the website.  You like your users to have a good experience when interacting with your site. This gives you a better chance of users trusting your site and coming back for more. For this SBA, don’t worry too much about the content. There are many places you can get free content to display on your site. Concentrate more on the web site's structure and grid system.
 
 
 * Some resources for free content:
