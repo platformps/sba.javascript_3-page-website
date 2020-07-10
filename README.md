@@ -29,7 +29,7 @@
   * Have markups of your pages
   * Research for a public API that can provide you with content (Optional)
   * Include a README file. The file should include technical specifications and description of your website.
-  * Host on GitHub,  include the link to your GitHub account in the README file(optional)
+  * Host on GitHub Pages,  include the link to the WebPage in your Repository in the README file.
   * Submit the project in a ZIP file
 
 
